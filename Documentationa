@@ -1,0 +1,93 @@
+## Game Concept Document
+
+Title: Monde Yatra (MY)
+
+Monde Yatra is a single-player exploration game where the goal is to unlock as many locations as possible on the map. As the game expands, players may have the option to explore multiple worlds, choosing their path through a vast, interconnected universe.
+The journey begins with the first location on the initial map, where players navigate through the landscape in search of hidden portals. Upon discovering the portal, they will be presented with a word puzzle related to the location. Clues to solve the puzzle are embedded within the environment, encouraging thorough exploration. Successfully solving the puzzle grants access to the next location, allowing players to progress further into the game.
+The name Monde Yatra is derived from two languages: French and Sanskrit. Monde (French) means "world," while Yatra (Sanskrit) means "journey." Together, they symbolize an adventure of discovering and traversing different worlds.
+
+## Concept Statement
+
+A multi-world, map-based exploration game where players begin at an initial location and search for a portal tied to the world’s theme. The puzzles will be contextually relevant, asking players to identify landmarks, historical dates, or other details about the environment.
+A map layer will guide players through the world’s locations, highlighting areas to explore and uncover. Each location will feature multiple portals, each leading to a different world, expanding the adventure.
+The number of portals within a location will be found on the map. The number of locations connected to the current location will be equal to the number of portals found in the realm.
+While the game has the potential to grow into a large-scale, ongoing epic, it will initially launch as a small-scale production, focusing on the core mechanics of exploration, puzzle-solving, and world discovery.
+Game World Fiction
+
+The player is a traveller navigating through fragmented worlds, each hiding remnants of different mythical civilizations. As they explore, they uncover locations on the map and learn information about the relevant realm. The player is an adventurous person who wants to explore all possible locations on their “yatra”
+Current status
+
+● Currently, Monde Yatra is in the planning stage, with requirements and design still being refi ned, though the core concept has been finalized.
+● If any blockers to progress arise, the idea may need to be revisited for adjustments. In the case of significant technical challenges or resource constraints, a reevaluation may be necessary to ensure the project remains on the right path.
+● In such situations, the focus should return to the core concept, prioritizing essential features over non-critical elements to maintain steady development progress.
+
+## Genre
+
+Exploration / Fantasy
+
+## Target Audience
+
+● Fans of atmospheric exploration games
+● Individuals wanting to explore and get immersed in worlds
+● Ages 6+
+
+## Unique Selling Points
+
+● Multi-World Exploration – Each world has its unique environment and history.
+● Dynamic Map System – Players reveal new areas through portals as they explore and interact with the world.
+● Puzzle-Based Navigation – Players must use clues and landmarks to solve the word puzzle.
+
+## Player Experience and Game POV
+
+● Player Role: An explorer, an adventurer.
+● Setting: Mythical worlds filled with natural beauty, magical landscapes, and uncharted regions.
+● Emotions: Curiosity, wonder, mystery, and a sense of accomplishment from uncovering secrets.
+● Engagement: The thrill of uncovering new locations, solving puzzles, and piecing together the story.
+
+## Key Moments
+
+● Upon entering the game, players will be introduced to the main map, providing an overview of the locations available for exploration.
+● As players navigate through a world, they must search for a hidden portal, which serves as the gateway to the next realm.
+● Once the portal is found, players can step through it, unlocking access to a new world and continuing their journey of discovery.
+
+## Visual and Audio Style
+
+● Visual: Hand-painted 2D art with layered parallax backgrounds, giving depth to the world.
+● Audio: Mystical, ambient soundtrack with subtle nature sounds, magical chimes, and dynamic music shifts based on location.
+
+## Monetization
+
+● Free for the game’s basic features – the game is free to play, with some of its features
+● The premium features (still in progress) are provided through the paid premium account.
+● Pay to pass portals
+
+## Platform(s), Technology, and Scope
+
+● Platforms: PC, Mobile
+● Future: VR
+● Technology: Unity (2D)
+● Scope: Small to mid-sized team, 2-3 years for full release.
+
+## Core Loops
+
+● Explore: Uncover unknown areas and interact with the environment.
+● Solve Puzzles: Use clues to find new paths or hidden locations.
+● Expand the Map: Each discovery unlocks additional content and areas.
+● Progress Through Story: The more players explore, the more they learn about the game's lore and ultimate goal.
+
+## Objectives and Progression
+
+● Short-Term Goals: Find landmarks, solve puzzles, and uncover hidden map pieces.
+● Long-Term Goals: Fully map each world, unlock hidden areas, and solve the overarching mystery connecting the worlds.
+
+## Game Systems
+
+● Exploration System: Movement, map uncovering, and interaction with world objects.
+● Puzzle System: Clue-based navigation, world manipulation, and riddle-solving.
+● Lore & Collectibles System: Players piece together a larger story through found objects and environmental storytelling.
+
+## Interactivity
+
+● Moment-to-Moment Gameplay: Players navigate maps and solve word puzzles.
+● Movement: Walking and transporting between worlds
+● Action/Feedback: Players uncover parts of the map dynamically, with the map showing the progress made.
